@@ -1,0 +1,57 @@
+﻿  AdditionalFunctions.cpp
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(23,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(23,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(23,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(93,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(93,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(93,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(109,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(109,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(109,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(126,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(126,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\AdditionalFunctions.cpp(126,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  InitConditions.cpp
+  main.cpp
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\Net.h(5,1): warning C4005: 'Vec_3d': macro redefinition
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\VectorOverloading.h(4,1): message : see previous definition of 'Vec_3d'
+  Net.cpp
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\Net.h(5,1): warning C4005: 'Vec_3d': macro redefinition
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\VectorOverloading.h(4,1): message : see previous definition of 'Vec_3d'
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\Net.cpp(311,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\Net.cpp(370,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\Net.cpp(371,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VectorOverloading.cpp
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\AdditionalFunctions.h(4,1): warning C4005: 'Vec_3d': macro redefinition
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\VectorOverloading.h(4,1): message : see previous definition of 'Vec_3d'
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(10,1): warning C4005: 'Vec_3d': macro redefinition
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\headers\AdditionalFunctions.h(4,1): message : see previous definition of 'Vec_3d'
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(204,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(204,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(204,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(218,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(218,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(218,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(232,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(232,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(232,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(250,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(250,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(250,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(262,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(262,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(262,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(274,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(274,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(274,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(286,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(286,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(286,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(300,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(300,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\src\VectorOverloading.cpp(300,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 938 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Boltzmann_shock_wave_.vcxproj -> C:\Users\Tikhon\Desktop\Boltzmann_shock_wave_0\x64\Release\Boltzmann_shock_wave_.exe

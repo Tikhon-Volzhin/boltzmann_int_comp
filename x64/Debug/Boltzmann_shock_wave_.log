@@ -1,0 +1,7 @@
+﻿  Net.cpp
+C:\Users\Рита\source\repos\Boltzmann_shock_wave_\src\headers\Net.h(5,1): warning C4005: Vec_3d: изменение макроопределения
+C:\Users\Рита\source\repos\Boltzmann_shock_wave_\src\headers\VectorOverloading.h(4,1): message : см. предыдущее определение "Vec_3d"
+C:\Users\Рита\source\repos\Boltzmann_shock_wave_\src\Net.cpp(311,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Рита\source\repos\Boltzmann_shock_wave_\src\Net.cpp(371,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рита\source\repos\Boltzmann_shock_wave_\src\Net.cpp(372,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Boltzmann_shock_wave_.vcxproj -> C:\Users\Рита\source\repos\Boltzmann_shock_wave_\x64\Debug\Boltzmann_shock_wave_.exe
